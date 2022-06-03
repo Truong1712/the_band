@@ -1,0 +1,60 @@
+/*mobile*/
+@media (max-width:740px) {
+    #header{
+        overflow: hidden;
+    }
+    #navigation .subnav{
+        display: block;
+    }
+    #search{
+        display: none;
+    }
+    .menu-mobile{
+        display: block;
+
+    }
+    #navigation{
+        display: block;
+    }
+    #navigation li:first-child{
+
+        display: inline-block;
+    }
+    #content .sub-name-about{
+        width: 100%;
+    }
+    #slider{
+        padding-top: 60%;
+    }
+    #content .sub-name-about img{
+        width: 90%;
+    }
+    #tour .third{
+        display: block;
+        text-align: center;
+    }
+    #tour .sub-third{
+        width: 90%;
+        display: inline-block;
+        justify-content: center;
+        padding-bottom: 20px;
+
+     
+    }
+    #contact .contact-content{
+        display: block;
+    }
+    #contact .sub-contact-content{
+        width: 100%;
+        font-size: 18px;
+        padding-bottom:20px ;
+    }
+    #contact .name-email{
+        display: block;
+    }
+    #contact .enter-contact .name,
+    #contact .enter-contact .email{
+        width: 100%;
+        margin: 10px 0; border: 1px solid;
+    }
+}
