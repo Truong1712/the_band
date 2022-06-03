@@ -100,7 +100,7 @@ html {
 /*Slider*/
 #slider{
     padding-top: 50%;
-    background-image: url(/assets/css/img/slider1.jpg);
+    background-image: url(./img/slider1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
